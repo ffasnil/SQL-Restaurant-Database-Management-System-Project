@@ -1,4 +1,4 @@
-# SQL-Restaurant-Database-Management-System-Project
+# A Restaurant Database Management System Project using SQL
 
 This project consists of 3 main parts:
 1. Creating Tables
